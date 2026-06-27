@@ -1,0 +1,17 @@
+.idea/
+.vscode/
+
+.DS_Store
+
+.claude/settings.local.json
+.claude/tmp/
+.mcp.json
+
+*.test
+*.out
+
+*.log
+
+.env
+.env.*
+!.env*.example
